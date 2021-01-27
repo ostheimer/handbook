@@ -50,7 +50,7 @@ Next to its native webclient interface, Jitsi Meet is also available as
 | easyconference.uibk.ac.at  |  ✅ |  | [run SSL check!](https://www.ssllabs.com/ssltest/analyze.html?d=easyconference.uibk.ac.at&latest) | University of Innsbruck  |
 | meet.epicenter.works  |  ✅ |  | [run SSL check!](https://www.ssllabs.com/ssltest/analyze.html?d=meet.epicenter.works&latest) |  Nessus GmbH  |
 | fairmeeting.net | ✅  |  | [run SSL check!](https://www.ssllabs.com/ssltest/analyze.html?d=fairmeeting.net&latest) |  |
-| meet.adsimple.at  |  ✅ |  | [run SSL check!](https://www.ssllabs.com/ssltest/analyze.html?d=meet.adsimple.at&latest) | Next Layer Telekom- und Beratungs GmbH   |
+| meet.adsimple.at  |  ✅ |  | [run SSL check!](https://www.ssllabs.com/ssltest/analyze.html?d=meet.adsimple.at&latest) | AdSimple GmbH   |
 | meet.bitblaze.io |  ✅ |  | [run SSL check!](https://www.ssllabs.com/ssltest/analyze.html?d=meet.bitblaze.io&latest) | Next Layer Telekom- und Beratungs GmbH   |
 | meet.graz.social  |  ✅ |  | [run SSL check!](https://www.ssllabs.com/ssltest/analyze.html?d=meet.graz.social&latest) |    |
 
